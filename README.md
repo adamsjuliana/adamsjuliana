@@ -12,7 +12,7 @@
   
 <div align="center">
   <a href="https://github.com/adamsjuliana"><img align="center" style="border-radius:4px" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
-  <a href="https://github.com/adamsjuliana"><img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
+  <a href="https://github.com/adamsjuliana"><img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white"></a>
   <a href="https://github.com/adamsjuliana"><img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
   <a href="https://github.com/adamsjuliana"><img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></a>
   <a href="https://github.com/adamsjuliana"><img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
