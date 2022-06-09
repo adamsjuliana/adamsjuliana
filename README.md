@@ -18,7 +18,7 @@
   <a href="https://github.com/adamsjuliana"><img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
 </div>
 <div>
-<a href="https://beacons.ai/adamsjuliana"><img align="right" alt="Avatar" height="150" src="https://raw.githubusercontent.com/adamsjuliana/adamsjuliana/main/avatar.png">
+<a href="https://beacons.ai/adamsjuliana"><img align="right" alt="Avatar" height="150" src="https://raw.githubusercontent.com/adamsjuliana/adamsjuliana/main/avatar.png"></a>
 </div>
 </div>
 
