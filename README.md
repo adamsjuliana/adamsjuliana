@@ -1,6 +1,6 @@
 ## 🙋 Prazer, Juliana 
-- 🎓 Estudante de Matemática 
-- 💜 Apaixonada por TI
+- 🎓🧮 Estudante de Matemática 
+- 💜👩‍💻 Apaixonada por TI
 
 <div align="center">
   <a href="https://github.com/adamsjuliana"><img height="145em" src="https://github-readme-stats.vercel.app/api?username=adamsjuliana&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/></a>
