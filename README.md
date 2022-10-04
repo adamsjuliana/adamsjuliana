@@ -25,6 +25,6 @@
 <div align="center"> 
   <a href="https://instagram.com/adamsjuliana" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:julianapadams@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=flat&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/adamsjuliana" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="http://www.linkedin.com/in/adamsjuliana" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="http://lattes.cnpq.br/5970666235761083" target="_blank"><img src="https://img.shields.io/badge/-CurriculoLattes-%230077B5?style=flat&logoColor=white" target="_blank"></a>
 </div>
