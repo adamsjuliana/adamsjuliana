@@ -1,5 +1,5 @@
 ## 🙋 Prazer, Juliana 
-- 🎓🧮 Estudante de Matemática 
+- 🎓🧮 Estudante de BSI 
 - 💜👩‍💻 Apaixonada por TI
 
 <div align="center">
