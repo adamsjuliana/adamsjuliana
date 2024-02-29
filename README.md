@@ -8,16 +8,11 @@
   </a>
 </div>
 
- ## 📲 Stack
+ ## 💻 Stack
 
   <img src="https://img.shields.io/badge/-Azure-%23333?logoColor=white"> <img src="https://img.shields.io/badge/-Python-%230077B5?logoColor=white">
 
-<div>
-<a href="https://beacons.ai/adamsjuliana"><img align="right" alt="Avatar" height="150" src="https://raw.githubusercontent.com/adamsjuliana/adamsjuliana/main/avatar.png"></a>
-</div>
-</div>
 
  ## 📲 Contato
   <a href = "mailto:julianapadams@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=flat&logo=gmail&logoColor=white"></a>
   <a href="http://www.linkedin.com/in/adamsjuliana" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white"></a>
-
