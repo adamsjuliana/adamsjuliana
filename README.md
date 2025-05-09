@@ -1,11 +1,3 @@
-<div align="center" >
-  
-  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
-  
-</div>
-
-  ------------
-
 ## 🙋 Prazer, Juliana 
 - 🎓🧮 Estudante de BSI 
 - 💜👩‍💻 Engenheira de dados e Analista de Infraestrutura em Cloud
