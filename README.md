@@ -1,4 +1,8 @@
+<div align="center" >
+  
   ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+  
+</div>
 
   ------------
 
@@ -11,11 +15,17 @@
   <a href="https://github.com/adamsjuliana"><img height="145em" src="https://github-readme-stats.vercel.app/api?username=adamsjuliana&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/></a>
   <a href="https://github.com/adamsjuliana"><img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamsjuliana&layout=compact&langs_count=7&theme=cobalt"/>
   </a>
+    
 </div>
 
  ## 💻 Stack
 
-  <img src="https://img.shields.io/badge/-Azure-%23333?logoColor=white"> <img src="https://img.shields.io/badge/-Python-%230077B5?logoColor=white">
+  <div align="center" >
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,vim,python,linux,aws,gcp,py,terraform,vscode,githubactions,gitlab,flask,fastapi,azure" />
+    </a>
+      <br/>
+  </div>
 
 
  ## 📲 Contato
