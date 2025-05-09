@@ -1,8 +1,13 @@
+  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+
+  ------------
+
 ## 🙋 Prazer, Juliana 
 - 🎓🧮 Estudante de BSI 
 - 💜👩‍💻 Engenheira de dados e Analista de Infraestrutura em Cloud
 
 <div align="center">
+
   <a href="https://github.com/adamsjuliana"><img height="145em" src="https://github-readme-stats.vercel.app/api?username=adamsjuliana&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/></a>
   <a href="https://github.com/adamsjuliana"><img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamsjuliana&layout=compact&langs_count=7&theme=cobalt"/>
   </a>
